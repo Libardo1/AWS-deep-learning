@@ -7,13 +7,6 @@ sudo apt-get --yes --force-yes install libboost-all-dev
 sudo apt-get --yes --force-yes install libtiff5-dev
 sudo apt-get --yes --force-yes install libjpeg8-dev
 sudo apt-get --yes --force-yes install zlib1g-dev
-sudo apt-get --yes --force-yes install libfreetype6-dev
-sudo apt-get --yes --force-yes install liblcms2-dev
-sudo apt-get --yes --force-yes install libwebp-dev
-sudo apt-get --yes --force-yes install tcl8.6-dev
-sudo apt-get --yes --force-yes install tk8.6-dev
-sudo apt-get --yes --force-yes install libxml2-dev
-sudo apt-get --yes --force-yes install libxslt-dev
 sudo apt-get --yes --force-yes install python-tk
 sudo apt-get --yes --force-yes install python-scipy
 sudo apt-get --yes --force-yes install python-skimage
